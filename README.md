@@ -38,7 +38,7 @@ The smooth operation of this organization needs to be maintained by everyone:fam
 1. Open your git bash
 2. Type and run `git clone https://github.com/MPU-CS/MPU-CS.git` (this is an HTTPS link, you can also use SSH if you have a key bound to your account)
 
-## Git Usage]
+## Git Usage
 
 You can refer to my personal repo. [RottenTangerine/LearnGit (github.com)](https://github.com/RottenTangerine/LearnGit)
 

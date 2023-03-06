@@ -20,7 +20,7 @@ In the spirit of sharing on the Internet and for the convenience of students, I 
 
 **If you have updated version, please share it**
 
-**If you find any missing slides, please add them **
+**If you find any missing slide, please add it**
 
 
 
@@ -38,7 +38,7 @@ The smooth operation of this organization needs to be maintained by everyone:fam
 1. Open your git bash
 2. Type and run `git clone https://github.com/MPU-CS/MPU-CS.git` (this is an HTTPS link, you can also use SSH if you have a key bound to your account)
 
-## Git Usage]
+## Git Usage
 
 You can refer to my personal repo. [RottenTangerine/LearnGit (github.com)](https://github.com/RottenTangerine/LearnGit)
 
@@ -52,11 +52,11 @@ Please do not upload :no_entry_sign::
 
 - Reference books (may have copyright issues)
 - PPT or other large files (file size too large, please convert to PDF for uploading)
-- Outdated courseware
+- Outdated slides
 
 ### File location specification
 
-Your courseware should be placed in a folder named after the first two digits of your student ID (year of enrollment). Please refer to the file tree for folder locations.
+Your slides should be placed in a folder named after the first two digits of your student ID (year of enrollment). Please refer to the file tree for folder locations.
 
 :evergreen_tree: File Tree refer:
 
@@ -82,7 +82,7 @@ I have set up a team dedicated to maintaining this project :wrench: . The main t
 
 
 
-If you have more questions, please contact me at :happy::
+If you have more questions, please contact me at:
 
 WeChat: [RottenTangerine](https://github.com/RottenTangerine/RottenTangerine/blob/main/img/wechat_qr.png)
 

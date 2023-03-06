@@ -82,7 +82,7 @@
 
 
 
-如果有更多疑问，请联系我:happy::
+如果有更多疑问，请联系我:
 
 WeChat: [RottenTangerine](https://github.com/RottenTangerine/RottenTangerine/blob/main/img/wechat_qr.png)
 

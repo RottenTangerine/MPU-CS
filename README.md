@@ -20,7 +20,7 @@ In the spirit of sharing on the Internet and for the convenience of students, I 
 
 **If you have updated version, please share it**
 
-**If you find any missing slides, please add them**
+**If you find any missing slide, please add it**
 
 
 

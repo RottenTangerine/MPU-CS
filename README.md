@@ -26,7 +26,7 @@ In the spirit of sharing on the Internet and for the convenience of students, I 
 
 The smooth operation of this organization needs to be maintained by everyone:family_man_woman_girl_boy:
 
-## Useage
+## Usage
 
 ### Normal Download
 
@@ -87,3 +87,4 @@ If you have more questions, please contact me at:
 WeChat: [RottenTangerine](https://github.com/RottenTangerine/RottenTangerine/blob/main/img/wechat_qr.png)
 
 Gmail: xiangxuan64@gmail.com
+

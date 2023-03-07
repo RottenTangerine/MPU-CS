@@ -28,12 +28,20 @@ The smooth operation of this organization needs to be maintained by everyone:fam
 
 ## Usage
 
-### Normal Download
+### Download folder
+
+Please refer to[git - Download a single folder or directory from a GitHub repo - Stack Overflow](https://stackoverflow.com/questions/7106012/download-a-single-folder-or-directory-from-a-github-repo)
+
+Link: [DownGit (minhaskamal.github.io)](https://minhaskamal.github.io/DownGit/#/home)
+
+### Download repo.
+
+#### Normal way
 
 1. Click on the green `Code` button in the upper right corner
 2. Click on `Download ZIP`.
 
-### Downloading with git 
+#### Downloading with git 
 
 1. Open your git bash
 2. Type and run `git clone https://github.com/MPU-CS/MPU-CS.git` (this is an HTTPS link, you can also use SSH if you have a key bound to your account)

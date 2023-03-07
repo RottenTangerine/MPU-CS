@@ -28,12 +28,20 @@
 
 ## 使用方法
 
-### 普通下载
+### 下载文件夹
+
+请参考[git - Download a single folder or directory from a GitHub repo - Stack Overflow](https://stackoverflow.com/questions/7106012/download-a-single-folder-or-directory-from-a-github-repo)
+
+Link: [DownGit (minhaskamal.github.io)](https://minhaskamal.github.io/DownGit/#/home)
+
+### 下载库
+
+#### 普通下载
 
 1. 点击右上角绿色`Code`按钮
 2. 点击`Download ZIP`
 
-### 使用git下载 
+#### 使用git下载 
 
 1. 打开你的 git bash
 2. 输入并运行`git clone https://github.com/MPU-CS/MPU-CS.git` (此为HTTPS链接，如果账号绑定了key还可以使用SSH链接)

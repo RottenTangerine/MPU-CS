@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="a50f9774-233d-41f6-ac96-7a3f7cb97a75" name="mysql@localhost Mapping">
+      <data-sources db="ea17af98-e3b7-4388-bd71-c6f82bfa59d0" ddl="10eaac5b-97fe-458f-ac51-97666327a9b4" />
+    </mapping>
+  </component>
+</project>

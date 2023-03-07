@@ -1,0 +1,10 @@
+```sh
+ex10si0n on Alpine.local at home /Desktop
+$  curl -X POST http://localhost:8080/MovieLobby-1.0-SNAPSHOT/api/movie/add -d '{"id":"tt0111161","coverImage":"https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg","title":"The Shawshank Redemption","year":1994,"genre":"Drama","description":"In 1947, Andy Dufresne (Tim Robbins), a banker in Maine, is convicted of murdering his wife and her lover, a golf pro. Since the state of Maine has no death penalty, he is given two consecutive life sentences and sent to the notoriously harsh Shawshank Prison. ","director":"Frank Darabont","leadingActor":"Robbins, Tim (I), Freeman, Morgan (I), Gunton, Bob, Sadler, William (I), Brown, Clancy (I)","runLength":120,"studio":"Studio","trailer":"https://www.youtube.com/watch?v=Q0CbN8sfihY","rentalPrice":1.99}' --header "Content-Type: application/json"
+{"response": failed}⏎
+
+ex10si0n on Alpine.local at home /Desktop
+$  curl -X POST http://localhost:8080/MovieLobby-1.0-SNAPSHOT/api/movie/add -d '{"id":"tt1677720","coverImage":"https://m.media-amazon.com/images/M/MV5BY2JiYTNmZTctYTQ1OC00YjU4LWEwMjYtZjkwY2Y5MDI0OTU3XkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_.jpg","title":"Ready Player One","year":2018,"genre":"Action, Adventure, Sci-Fi","description":"We open in a place called \\"The Stacks\\", in Columbus Ohio, in the year 2045.The-low-income community is filled with a number of precariously stacked trailers and vehicles, where Wade Watts (Tye Sheridan) lives with his Aunt Alice (Susan Lynch), and her boyfriend Rick (Ralph Ineson).With the real world in such an impoverished state and no one really caring to do anything about it, Wade finds himself like millions of people, escaping into The OASIS","director":"Steven Spielberg","leadingActor":"Sheridan, Tye, Cooke, Olivia (II), Mendelsohn, Ben (I), Waithe, Lena, Miller, T.J. (I)","runLength":120,"studio":"Studio","trailer":"https://www.youtube.com/watch?v=Q0CbN8sfihY","rentalPrice":1.99}' --header "Content-Type: application/json"
+{"response": success}⏎
+```
+
